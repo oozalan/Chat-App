@@ -1,2 +1,3 @@
 # Chat-App
-A peer-to-peer chat application made with Python, for CSE4074 Computer Networks course. Detailed information can be found in the project report.
+It is made as a project for CSE4074 Computer Networks course.
+More detailed information can be found in the project report.
